@@ -1,0 +1,2 @@
+This is my third document.
+I would like to commit it
